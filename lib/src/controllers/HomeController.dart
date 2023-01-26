@@ -6,7 +6,7 @@ class HomeController {
   final conversation = RxList([]);
   final isResearching =  RxNotifier<bool>(false);
   var apiUrl = Uri.https("api.openai.com", "/v1/completions");
-  static const chatGptSecretKey = 'XXXXXXXXXXX';
+  static const chatGptSecretKey = 'XXXXXXXXXX';
 
   Future<void> sendQuestion(String question) async {
     isResearching.value = true;

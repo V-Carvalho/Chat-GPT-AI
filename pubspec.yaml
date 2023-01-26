@@ -24,3 +24,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family: GPT
+      fonts:
+        - asset: assets/fonts/GPT.ttf

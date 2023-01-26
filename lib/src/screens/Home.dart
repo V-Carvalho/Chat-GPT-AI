@@ -32,7 +32,14 @@ class _HomeState extends State<Home> {
     return AppBar(
       centerTitle: false,
       backgroundColor: const Color(0xFF202123),
-      title: const Text('Chat GPT'),
+      title: const Text(
+        'Chat GPT',
+        style: TextStyle(
+          fontFamily: 'GPT',
+          color: Color(0xFFFFFFFF),
+          fontWeight: FontWeight.bold,
+        ),
+      ),
       actions: <Widget>[
         IconButton(
           icon: const Icon(
