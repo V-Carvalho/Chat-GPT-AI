@@ -33,7 +33,7 @@ class _HomeState extends State<Home> {
       centerTitle: false,
       backgroundColor: const Color(0xFF202123),
       title: const Text(
-        'Chat GPT',
+        'ChatGPT',
         style: TextStyle(
           fontFamily: 'GPT',
           color: Color(0xFFFFFFFF),

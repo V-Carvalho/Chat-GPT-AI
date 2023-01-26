@@ -1,30 +1,20 @@
-[//]: # (# ☁ Quiz AWS Cloud Practitioner)
+# 🤖 ChatGPT
 
-[//]: # ()
-[//]: # (## 📝 Descrição:)
 
-[//]: # (O projeto busca testar os conhecimentos sobre os serviços da AWS, visando assim a obtenção da certificação AWS Cloud Practitioner, são mais de 260 questões diversificadas e comentadas.)
+## 📝 Descrição:
 
-[//]: # ()
-[//]: # (## 🔧 Tecnologias utilizadas:)
+* Consumo da API da inteligência artifical ChatGPT(OpenAi) com Flutter.
 
-[//]: # (* Flutter)
+## 🔧 Tecnologias utilizadas:
 
-[//]: # (* Firebase)
+* Flutter
 
-[//]: # ()
-[//]: # (## 🚀 Rodando o projeto:)
+## 🚀 Rodando o projeto:
 
-[//]: # (* git clone)
+* git clone
+* flutter pub get
+* flutter run
 
-[//]: # (* flutter pub get)
+## 🌐 Link do aplicativo:
 
-[//]: # ()
-[//]: # (## 🔜 Implementação futura:)
-
-[//]: # (* Criar área com video aulas sobres os tópicos abordados na prova.)
-
-[//]: # ()
-[//]: # (## 🌐 Link do aplicativo:)
-
-[//]: # (* [Google Play]&#40;&#41;)
+* [Google Play](https://play.google.com/store/apps/details?id=vcode.chatgptai)
