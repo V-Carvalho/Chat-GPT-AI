@@ -17,4 +17,4 @@
 
 ## 🌐 Link do aplicativo:
 
-* [Google Play](https://play.google.com/store/apps/details?id=vcode.chatgptai)
+* [Google Play](https://play.google.com/store/apps/details?id=vcode.chatai&hl=pt_BR&gl=US)
